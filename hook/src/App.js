@@ -1,5 +1,5 @@
 import React from "react";
-import MovieList from './Component/MovieList'
+import MovieList from './component/MovieList'
 import "./App.css";
 
 function App() {
